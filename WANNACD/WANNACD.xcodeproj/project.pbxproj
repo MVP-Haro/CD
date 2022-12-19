@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A85BD55E295013D70056AAB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		A8DAB10229500227000151D8 /* WANNACD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WANNACD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8DAB10529500227000151D8 /* WANNACDApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WANNACDApp.swift; sourceTree = "<group>"; };
 		A8DAB10729500227000151D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,6 +52,7 @@
 		A8DAB10429500227000151D8 /* WANNACD */ = {
 			isa = PBXGroup;
 			children = (
+				A85BD55E295013D70056AAB9 /* Info.plist */,
 				A8DAB10529500227000151D8 /* WANNACDApp.swift */,
 				A8DAB10729500227000151D8 /* ContentView.swift */,
 				A8DAB10929500228000151D8 /* Assets.xcassets */,
@@ -270,6 +272,7 @@
 				DEVELOPMENT_TEAM = 78F54XW75V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WANNACD/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -303,6 +306,7 @@
 				DEVELOPMENT_TEAM = 78F54XW75V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WANNACD/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
